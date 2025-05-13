@@ -34,6 +34,14 @@
 - 🔎 Exploring GitHub Copilot + ChatGPT for Dev productivity
 
 ---
+
+### 📫 Latest Blog 
+
+<!-- BLOG-POST-LIST:START -->
+- [What’s New in Flutter 3.29](https://medium.com/flutter/whats-new-in-flutter-3-29-f90c380c2317)
+- [Awesome FrontendMasters Course Resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
+- [They say my job won't survive...](https://dev.to/alvaromontoro/they-say-my-job-wont-survive-12lc)
+<!-- BLOG-POST-LIST:END -->
 ## 🔧 Tech Stack
 
 <p align="center">
@@ -64,7 +72,7 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amine-Mb&theme=react-dark" />
 </p>
----
+
 
 ## 🤝 Connect with Me
 
