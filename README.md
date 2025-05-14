@@ -77,7 +77,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/amine-mb"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/amine-mabrouk-b58a16169/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://x.com/Aminemb50"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge" /></a>
   <a href="https://codepen.io/Amine-Mb"><img src="https://img.shields.io/badge/Codepen-white?logo=codepen&style=for-the-badge" /></a>
 </p>
