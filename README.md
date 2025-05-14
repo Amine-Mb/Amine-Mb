@@ -30,7 +30,7 @@
 
 ### 🚧 Currently Working On
 - ✨ Building AI-integrated apps using Flutter + Firebase + OpenAI
-- 📘 Publishing Flutter tutorials on [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📘 Publishing Flutter tutorials on [LinkedIn](https://www.linkedin.com/in/amine-mabrouk-b58a16169//)
 - 🔎 Exploring GitHub Copilot + ChatGPT for Dev productivity
 
 ---
